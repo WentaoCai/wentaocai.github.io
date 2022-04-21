@@ -1,39 +1,27 @@
-## Animal Genetics Annotation
+## Animal Genetics and Genomics Analysis
 
-You can use the [editor on GitHub](https://github.com/WentaoCai/wentaocai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Transcriptome analysis
+#####[RNA-seq](https://github.com/WentaoCai/RNA-seq/wiki)
+#####miRNA
+####Long non-coding RNA
+####RNA editing
+
+
+### Genome-wide association study
 
 ### Permutation test for GWAS signals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+The Sum-based method for GWAS Signal Enrichment analysis (SumGSE) is a tool to integrate genomic information of biological mechanisms with GWAS summary statistics for complex traits. The sum-based method uses signals of all markers within a pre-defined candidate feature. Briefly, we calculated the following summary statistics for candidate regions. The download and details of SumGSE method could be found [here](https://github.com/WentaoCai/GWAS_enrichment).
 
 ### eQTL analysis
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+```markdown
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WentaoCai/wentaocai.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
