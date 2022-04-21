@@ -14,9 +14,7 @@ The Sum-based method for GWAS Signal Enrichment analysis (SumGSE) is a tool to i
 
 ### eQTL analysis
 ```markdown
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**eQTL analysis** and _protocol_ and [here](https://github.com/WentaoCai/eQTL_analysis)
 ```
 
 
