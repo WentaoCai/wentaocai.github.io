@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Repo Name
+email: your_email@example.com
+author: Your Name
+description: "Repo description"
+baseurl: "/repo-name"
+url: "https://github-username.github.io"
