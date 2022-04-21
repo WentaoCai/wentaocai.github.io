@@ -3,9 +3,7 @@
 
 ### Transcriptome analysis
 #####[RNA-seq](https://github.com/WentaoCai/RNA-seq/wiki)
-#####miRNA
-####Long non-coding RNA
-####RNA editing
+
 
 
 ### Genome-wide association study
